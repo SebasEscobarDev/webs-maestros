@@ -1,0 +1,81 @@
+@font-face {
+    font-family: 'Futura';
+    src: url('fonts/FuturaBT-LightCondensed.woff2') format('woff2'),
+        url('fonts/FuturaBT-LightCondensed.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Brandon-Grotesque-B';
+    src: url('fonts/BrandonGrotesque-Black.woff2') format('woff2'),
+        url('fonts/BrandonGrotesque-Black.woff') format('woff');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Brandon-Grotesque-L';
+    src: url('fonts/BrandonGrotesque-Light.woff2') format('woff2'),
+        url('fonts/BrandonGrotesque-Light.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Impact';
+    src: url('fonts/Impact.woff2') format('woff2'),
+        url('fonts/Impact.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Museo-Slab-500';
+    src: url('fonts/MuseoSlab-500.woff2') format('woff2'),
+        url('fonts/MuseoSlab-500.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Sail';
+    src: url('fonts/Sail-Regular.woff2') format('woff2'),
+        url('fonts/Sail-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+
+@font-face {
+    font-family: 'Proxima-Nova-Rg';
+    src: url('fonts/ProximaNova-Regular.woff2') format('woff2'),
+        url('fonts/ProximaNova-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Museo-300';
+    src: url('fonts/Museo-300.woff2') format('woff2'),
+        url('fonts/Museo-300.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'Museo-700';
+    src: url('fonts/Museo-700.woff2') format('woff2'),
+        url('fonts/Museo-700.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+

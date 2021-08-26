@@ -1,0 +1,103 @@
+.banner-title{
+	z-index: 100;
+}
+@media screen and (max-width: 592px){
+	header{
+		width: 100%;
+	}
+	#section-1 > .container{
+		padding: 20% 0;
+	}
+	#section-1{
+		background-size: 100%;
+		background-position: 50% 50% !important;
+		padding: 0% !important;
+	}
+	.style-title-1 h1{
+		font-size: 47px !important;
+		margin-top: 85px !important;
+		line-height: 38px !important;
+		margin-bottom: 85px !important;
+	}
+	.style-p1 span:nth-child(2){
+		font-size: 30px !important;
+	}
+	.style-p1 span:nth-child(4){
+		font-size: 45px !important;
+	}
+	.style-p2{
+		font-size: 25px !important;
+		line-height: 18px !important;
+	}
+	.style-p2{
+		padding: 0 15px !important;
+	}
+	.style-p3{
+		font-size: 25px !important;
+	}
+	.style-p3 span:nth-child(2) {
+	    font-size: 27px !important;
+	}
+	.style-p3 span:nth-child(3) {
+	    font-size: 25px !important;
+	}
+	#second-div {
+	    padding-right: 10% !important;
+	    padding-left: 10%;
+	}
+	#frmContacto{
+		margin-top: 0px !important;
+		padding: 10px 5px !important;
+	}
+	.btn-pro-1{
+		max-width: 450px;
+		width: 90% !important;
+	}
+	.btn-pro-1 img{
+		width: 100%;
+		height: auto;
+	}
+	#sec-3img{
+		display: none !important;
+	}
+	#section-3 .col-md-6{
+		position: relative;
+		z-index: 1;
+		padding: 0 30px !important;
+	}
+	#section-3 h1 {
+    font-size: 45px !important;
+    padding: 0px !important;
+  }
+	#section-2 > .dev-title-1 > h1{
+		position: relative;
+	}
+	#sec22{
+		display: none !important;
+	}
+	#section-3{
+		padding-top: 150px;
+		padding-bottom: 150px;
+	}
+	.dev-d-flex{
+		display: inline-block !important;
+	}
+	.detailcard h3{
+		font-size: 35px !important;
+		margin-bottom: 90px !important;
+	}
+	.detailcard h4{
+		font-size: 25px !important;
+		line-height: 24px !important;
+		margin-bottom: 90px !important;
+	}
+	.email-dev img{
+		width: 100%;
+		max-width: 150px;
+		margin-top: 40px;
+		margin-bottom: 40px;
+	}
+	body{
+		overflow-x: hidden; 
+	}
+}
